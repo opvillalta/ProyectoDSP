@@ -1,0 +1,10 @@
+C:\Users\Machuca\Desktop\Proyecto_DSP\proyecto-dsp\Datos\bin\Datos.dll
+C:\Users\Machuca\Desktop\Proyecto_DSP\proyecto-dsp\Datos\bin\Datos.pdb
+C:\Users\Machuca\Desktop\Proyecto_DSP\proyecto-dsp\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Machuca\Desktop\Proyecto_DSP\proyecto-dsp\Datos\obj\Debug\Datos.dll
+C:\Users\Machuca\Desktop\Proyecto_DSP\proyecto-dsp\Datos\obj\Debug\Datos.pdb
+C:\Users\Machuca\Desktop\proyecto-dsp\Datos\bin\Datos.dll
+C:\Users\Machuca\Desktop\proyecto-dsp\Datos\bin\Datos.pdb
+C:\Users\Machuca\Desktop\proyecto-dsp\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Machuca\Desktop\proyecto-dsp\Datos\obj\Debug\Datos.dll
+C:\Users\Machuca\Desktop\proyecto-dsp\Datos\obj\Debug\Datos.pdb
